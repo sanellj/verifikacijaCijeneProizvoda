@@ -19,7 +19,7 @@ namespace Projekat
         {
             this._file = new FileManagement
             {
-                FileName = @"C:\Kurs\SeleniumLog.txt"
+                FileName = @"C:\Sanel\SeleniumLog.txt"
             };
         }
 
